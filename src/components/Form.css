@@ -1,0 +1,25 @@
+.form-block{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+label{
+    margin: 0.5rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+input{
+    border-radius: 10px;
+    box-shadow: 0.2rem 0.2rem 0.1rem 0.1rem black;
+    margin:25px!important;
+}
+
+.form-dec{
+    width: 15rem;
+    padding: 0.5rem;
+    margin:0.5rem;
+}
