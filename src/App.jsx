@@ -5,6 +5,7 @@ import "./App.css";
 // Declaring the variable outside the function App. This Prevents the value of the variable
 // stick with the old values used in the input form when we try to tweak our input after submitting once
 // These values are used to find out the time left in months to save money for downpayment
+//
 let salary = 0;
 let savingsPercent = 0;
 let houseCost = 0;
